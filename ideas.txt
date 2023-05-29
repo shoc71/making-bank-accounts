@@ -26,6 +26,7 @@ theft (you steal from someone or someone steals all their money from you)
 inhertance (parents od sorts leave you money)
 divorce_+_child_support (cuts half of all_salary + 20% per child - wife takes everything and leaves)
 lottery (playing the odds until you win, 1/1_000_000)
+splitting_the_bill (for payments with friends and stuff)
 
 ------------------------------greed_functions------------------------------
 pyramid_schemes ()
