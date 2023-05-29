@@ -1,0 +1,11 @@
+ideas for bank and its functions to perform...
+
+deposit (putting money in)
+withdrawal (taking money out)
+transfer (switching money locations from one bank account to another - money only process)
+loan (taking x amount of money from the bank and being charged y% per time period (depending on interest))
+bankrupt (removing all assests and money away from your bank. Making it impossible for you to take out loans in the future)
+bet (gamble your money for more money)
+purchase (buy goods in exchange for the money)
+exchange-rate (switching currency of the money to buy other/more goods)
+trade (switching/dealing goods from one bank account to another - goods and money only)
