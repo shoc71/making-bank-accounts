@@ -1,29 +1,31 @@
-ideas for bank and its functions to perform...
+ideas for the bank and its functions to perform...
 
 ------------------------------main_functions------------------------------
 deposit (putting money in)
 withdrawal (taking money out)
-transfer (switching money locations from one bank account to another - money only process)
+transfer (switching money locations from one bank account to another - money-only process)
+bankrupt (lose all your money and assets, to pay off all loans possible)
 
 ------------------------------money_making_functions------------------------------
 loan (taking x amount of money from the bank and being charged y% per time period (depending on interest))
-bankrupt (removing all assests and money away from your bank. Making it impossible for you to take out loans in the future)
+bankrupt (removing all assets and money away from your bank. Making it impossible for you to take out loans in the future)
 bet (gamble your money for more money)
+budget (planning money for sets for the next payment and bill dates)
 
 ------------------------------exchanging_goods_functions------------------------------
 purchase (buy goods in exchange for the money)
-exchange-rate (switching currency of the money to buy other/more goods)
+exchange rate (switching currency of the money to buy other/more goods)
 trade (switching/dealing goods from one bank account to another - goods and money only)
 
 ------------------------------[more_to_come]------------------------------
 investing (basically gambling with stocks and stuff)
 buying-building-and-companies (they either make or break money depending on the time)
 sellers (selling the property to someone that wants to invest or buy up the company and all that)
-jobs (doing something to make some moneys)
+jobs (doing something to make some money)
 taxes (paying for taxes every cycle)
-retirement-fund (paying for retirement fund, which may get stolen)
+retirement fund (paying for a retirement fund, which may get stolen)
 theft (you steal from someone or someone steals all their money from you)
-inhertance (parents od sorts leave you money)
+inheritance (parents of sorts leave you money)
 divorce_+_child_support (cuts half of all_salary + 20% per child - wife takes everything and leaves)
 lottery (playing the odds until you win, 1/1_000_000)
 splitting_the_bill (for payments with friends and stuff)
