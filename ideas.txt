@@ -20,7 +20,7 @@ trade (switching/dealing goods from one bank account to another - goods and mone
 ------------------------------[more_to_come]------------------------------
 investing (basically gambling with stocks and stuff)
 buying-building-and-companies (they either make or break money depending on the time)
-sellers (selling the property to someone that wants to invest or buy up the company and all that)
+sellers (selling the property to someone who wants to invest or buy up the company and all that)
 jobs (doing something to make some money)
 taxes (paying for taxes every cycle)
 retirement fund (paying for a retirement fund, which may get stolen)
@@ -33,3 +33,13 @@ switching-money-from-different-bank-accounts ()
 
 ------------------------------greed_functions------------------------------
 pyramid_schemes ()
+
+---------------------------competitive_advantage-------------------------------------
+cash_advances are given early and immediately (like wtf does that even mean?)
+early access to payroll (0%) with direct deposits in that bank
+interchange fees (3% from provider, not customer) makes purchases with the card (using the prepaid card) - (1.5% for provider and 1.5% for bank)
+$5 for customer acquisition - avg. person spend $700/month = 
+Standard card - $57 per year.
+$10 for a premium card. 
+For Revenue --> Premiums-models, loans (6%), credit building programs ($10/month).
+Payday-lenders?
